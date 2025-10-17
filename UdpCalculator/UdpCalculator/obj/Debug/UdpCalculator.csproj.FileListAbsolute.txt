@@ -1,0 +1,11 @@
+C:\Users\emrea\OneDrive\Masaüstü\test case\UdpCalculator\UdpCalculator\obj\Debug\UdpCalculator.csproj.AssemblyReference.cache
+C:\Users\emrea\OneDrive\Masaüstü\test case\UdpCalculator\UdpCalculator\obj\Debug\UdpCalculator.Form1.resources
+C:\Users\emrea\OneDrive\Masaüstü\test case\UdpCalculator\UdpCalculator\obj\Debug\UdpCalculator.Properties.Resources.resources
+C:\Users\emrea\OneDrive\Masaüstü\test case\UdpCalculator\UdpCalculator\obj\Debug\UdpCalculator.csproj.GenerateResource.cache
+C:\Users\emrea\OneDrive\Masaüstü\test case\UdpCalculator\UdpCalculator\obj\Debug\UdpCalculator.csproj.CoreCompileInputs.cache
+C:\Users\emrea\OneDrive\Masaüstü\test case\UdpCalculator\UdpCalculator\bin\Debug\UdpCalculator.exe.config
+C:\Users\emrea\OneDrive\Masaüstü\test case\UdpCalculator\UdpCalculator\bin\Debug\UdpCalculator.exe
+C:\Users\emrea\OneDrive\Masaüstü\test case\UdpCalculator\UdpCalculator\bin\Debug\UdpCalculator.pdb
+C:\Users\emrea\OneDrive\Masaüstü\test case\UdpCalculator\UdpCalculator\obj\Debug\UdpCalculator.exe
+C:\Users\emrea\OneDrive\Masaüstü\test case\UdpCalculator\UdpCalculator\obj\Debug\UdpCalculator.pdb
+C:\Users\emrea\OneDrive\Masaüstü\test case\UdpCalculator\UdpCalculator\obj\Debug\UdpCalculator.exe.config
