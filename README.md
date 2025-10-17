@@ -21,7 +21,7 @@ Arayüz **C# diliyle**, sunucu tarafı ise **Python diliyle** yazılmıştır.
 ## 📁 Dosya Yapısı
 Aşağıda projede yer alan dosyalar listelenmiştir 👇  
 
-UDP/
+UDP
 │
 
 ├── UdpCalculator/ # 💻 C# GUI projesi (Visual Studio)
@@ -119,6 +119,18 @@ cd UdpCalculator\UdpCalculator\bin\Debug
 ### 💡 UDP bağlantısı için iki cihazın aynı yerel ağda olması gerekir.
 Python tarafı 0.0.0.0 ile tüm arayüzleri dinler.
 
+---
+
+## 🎯 Proje Özeti
+
+Bu proje, UDP protokolünü kullanarak **istemci (C#)** ve **sunucu (Python)** arasında gerçek zamanlı veri aktarımı sağlamaktadır.  
+Kullanıcı, C# arayüzü üzerinden iki sayı ve bir işlem türü (+, −, ×, ÷) seçer. Bu bilgiler **UDP paketi** olarak gönderilir,  
+**Python sunucusu** işlemi gerçekleştirir ve sonucu yine UDP ile geri yollar.  
+
+Bu sayede, **hızlı – hafif – platformdan bağımsız** bir veri alışverişi gerçekleştirilmiştir.  
+Aynı yapı, **gömülü sistemlerde (ör. Raspberry Pi)** veya **endüstriyel IoT haberleşmelerinde** temel model olarak kullanılabilir. 🚀
+
+---
 
 
 
