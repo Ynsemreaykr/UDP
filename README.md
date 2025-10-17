@@ -30,7 +30,7 @@ UDP/
 
 │ ├── Form1.Designer.cs # Arayüz tasarımı
 
-│ ├── Program.cs # Uygulama başlangıç noktası
+│ └── Program.cs # Uygulama başlangıç noktası
 
 │
 
